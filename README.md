@@ -7,6 +7,19 @@ Devops ( SWE( Software Enginereening), Automation(CICD), Culture( Continonus Mon
 Create development environment that is cloud-based: 
 
 ### Github Codespaces
+
+Build out python project scaffold:
+
+* makefile
+* requirements.txt
+* test_library.py
+* python_library
+* Dockerfile
+* Command-line-tool
+* Microservice
+
+
+
 ### Visio Studio
 ### AWS CloudShell
 ### AWS Cloud9

@@ -7,7 +7,7 @@ Devops ( SWE( Software Enginereening), Automation(CICD), Culture( Continonus Mon
 Create development environment that is cloud-based: 
 
 ### Github Codespaces
-### Colab Notebook
+### Visio Studio
 ### AWS CloudShell
 ### AWS Cloud9
 
